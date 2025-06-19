@@ -7,10 +7,7 @@ A compact, wireless, and affordable system to monitor stress levels in real-time
 - [System Overview](#system-overview)
 - [How It Works](#how-it-works)
 - [Results](#results)
-- [Installation / Getting Started](#installation--getting-started)
-- [Future Improvements](#future-improvements)
 - [References](#references)
-- [License](#license)
 
 ## 🔧 Features
 - Real-time heart rate and SpO₂ monitoring
