@@ -68,4 +68,3 @@ The system consists of:
 - Shaffer & Ginsberg – Overview of HRV Metrics
 - Daud Muhajir et al. – Android App for HRV-based Stress Monitoring
 - MAX30102 Datasheet
-- Project Report (see `/docs/project_report.pdf`)
