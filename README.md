@@ -28,7 +28,7 @@ The system consists of:
 - OLED Display
 - 3.3V regulated power supply
 
-![System Block Diagram](hardware/block_diagram.png)
+![System Block Diagram](image/block_diagram.png)
 
 ## 🖥️ How It Works
 
