@@ -54,7 +54,7 @@ The system consists of:
 
 ![Output](image/Output1.png)
 
-![Output2](image/pcbboard.png)
+![Output2](image/pcbboard.jpeg)
 
 
 ## 🚀 Installation / Getting Started
