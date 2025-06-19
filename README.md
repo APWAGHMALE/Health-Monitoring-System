@@ -55,6 +55,8 @@ The system consists of:
 
 > ✅ These results demonstrate that the stress detection system closely tracks real-world physiological parameters, showing minor deviations suitable for non-clinical use.
 
+![Output](image/Output1.png)
+
 
 ## 🚀 Installation / Getting Started
 
