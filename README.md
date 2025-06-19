@@ -4,7 +4,6 @@ A compact, wireless, and affordable system to monitor stress levels in real-time
 
 ## 📑 Table of Contents
 - [Features](#features)
-- [Hardware Used](#hardware-used)
 - [System Overview](#system-overview)
 - [How It Works](#how-it-works)
 - [Results](#results)
