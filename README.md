@@ -3,11 +3,14 @@
 A compact, wireless, and affordable system to monitor stress levels in real-time using Heart Rate Variability (HRV), built with ESP8266 and the MAX30102 PPG sensor.
 
 ## 📑 Table of Contents
-- [Features](#Features)
-- [System Overview](#System-overview)
-- [How It Works](#how-it-works)
-- [Results](#results)
-- [References](#references)
+
+- [🔧 Features](#-features)
+- [📐 System Overview](#-system-overview)
+- [🖥️ How It Works](#️-how-it-works)
+- [📊 Results](#-results)
+- [🚀 Installation / Getting Started](#-installation--getting-started)
+- [📚 References](#-references)
+
 
 ## 🔧 Features
 - Real-time heart rate and SpO₂ monitoring
